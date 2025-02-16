@@ -10,16 +10,16 @@ This project, which won the **Code2Career Hackathon 2024**, goes beyond traditio
 ### Tech Items' Demand Forecasting  
 Leverage AI and machine learning to predict future demand for tech products, helping businesses optimize inventory and reduce overstocking or stockouts.  
 
-### Tech Trender and AI Laptop Recommender 
+### Tech Trender and AI Laptop Recommender 🤖
 Stay ahead of the curve with real-time insights into emerging tech trends, enabling businesses to make data-driven decisions. A smart recommendation system that suggests the best laptops to customers based on their preferences, budget, and usage patterns. 
 
-### Faulty Product Detection with Computer Vision  
+### Faulty Product Detection with Computer Vision 🕵️ 
 Automate quality control by detecting faulty products using computer vision, reducing manual inspection efforts and improving accuracy.  
 
-### Real-Time Inventory Tracking  
+### Real-Time Inventory Tracking 📦 
 Monitor inventory levels in real-time across multiple warehouses, ensuring seamless stock management and order fulfillment.  
 
-### React Map Tracking System  
+### React Map Tracking System 🗺️
 Track deliveries in real-time using an interactive map interface built with React, enhancing transparency and customer satisfaction.  
 
 ---
