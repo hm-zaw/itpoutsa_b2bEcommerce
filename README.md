@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Mini ERP for B2B E-Commerce  
 **An Innovative and Award-Winning Solution to Revolutionize B2B E-Commerce Operations**  
 
